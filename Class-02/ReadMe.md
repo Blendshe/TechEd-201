@@ -11,6 +11,6 @@
 
 Other important ones:
 
-11.mv = move a file
-12.rm <filename> = remove a file permanently. Warning: there is no recovery!
-13.cp <source> <destination> = copy a file
+11. mv = move a file
+12. rm <filename> = remove a file permanently. Warning: there is no recovery!
+13. cp <source> <destination> = copy a file
