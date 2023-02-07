@@ -19,7 +19,7 @@ I learnt about
 8️. | touch = create a new file
 9️. | code = open up this file in VSCode
 10. | code . = open the current directory in VSCode
-11. 
+
 Other important ones:
 
 11. mv = move a file
