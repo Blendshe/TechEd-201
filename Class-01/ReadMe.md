@@ -9,18 +9,19 @@ I learnt about
 
 **Great class tonight**
 
-1️⃣ | pwd = print working directory
-2️⃣ | tree = shows the file tree of your directory
-3️⃣ | ls = list all the files and folders located in your current directory
-4️⃣ | ls -a = list all the files and folders located in your current directory including hidden files in short form
-5️⃣ | ls -la = list all the files and folders located in your current directory including hidden files in a more detailed form
-6️⃣ | cd = change directory
-7️⃣ | mkdir = make directory
-8️⃣ | touch = create a new file
-9️⃣ | code = open up this file in VSCode
-🔟 | code . = open the current directory in VSCode
+1. | pwd = print working directory
+2. | tree = shows the file tree of your directory
+3. | ls = list all the files and folders located in your current directory
+4. | ls -a = list all the files and folders located in your current directory including hidden files in short form
+5. | ls -la = list all the files and folders located in your current directory including hidden files in a more detailed form
+6️. | cd = change directory
+7️. | mkdir = make directory
+8️. | touch = create a new file
+9️. | code = open up this file in VSCode
+10. | code . = open the current directory in VSCode
+11. 
 Other important ones:
 
-mv = move a file
-rm = remove a file permanently. Warning: there is no recovery!
-cp = copy a file
+11. mv = move a file
+12 rm = remove a file permanently. Warning: there is no recovery!
+13. cp = copy a file
