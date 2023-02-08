@@ -1,3 +1,5 @@
+**Useful Termnal Commands**
+
 1. 1️⃣  |  pwd = print working directory
 2. 2️⃣  | tree = shows the file tree of your directory
 3. 3️⃣  | ls = list all the files and folders located in your current directory
