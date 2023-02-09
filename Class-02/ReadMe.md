@@ -1,29 +1,11 @@
-**Useful Termnal Commands**
 
-1.  |  pwd = print working directory
-2.  | tree = shows the file tree of your directory
-3.  | ls = list all the files and folders located in your current directory
-4.  | ls -a = list all the files and folders located in your current directory including hidden files in short form
-5.  | ls -la = list all the files and folders located in your current directory including hidden files in a more detailed form
-6.  | cd = change directory
-7.  | mkdir = make directory
-8.  | touch = create a new file
-9.  | code <filename> = open up this file in VSCode
-10. | code . = open the current directory in VSCode
+**Lab**
 
-Other important ones:
-
-11. mv = move a file
-12. rm <filename> = remove a file permanently. Warning: there is no recovery!
-13. cp <source> <destination> = copy a file
-
-  **Task**
-  
-1.  | Paste your yesterdays code into your replit or vscode
-2️.  | Create a click event handler and listener
-3️.  | Now, when the click event happens we need to get four prompts --> education, favorite programming language, future dream role , holiday destination
-4️.  | Now, when someone enters the favorite language of their own choice they needs to get an alert saying hey you have selected the favorite language....
-5️.  | After all the prompts are done render that to the frontend.
+1.  | create four prompts
+2️.  | each prompt should ask your name, age, country and fav color respectively
+3️.  | Create a LIST in your html
+4️.  | This list should contain four list items with name, age, country and fav color
+5️.  | the values you enter in your prompt should be rendered in the frontend and the text color should be the fav color you entered
   
  ```
   <!DOCTYPE html>
