@@ -9,7 +9,7 @@
 
 
 **Day 6 14.02.23**
-
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -43,4 +43,7 @@
     </script>
     
   </body>
+  
 </html>
+
+```
