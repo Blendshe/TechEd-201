@@ -9,6 +9,9 @@
 
 
 **Day 6 14.02.23**
+
+**Get and Set functions **
+
 ```
 <!DOCTYPE html>
 <html>
@@ -51,7 +54,7 @@
 
 **Day 7 15.02.23**
 
-Setter and Getter functions 
+**Setter and Getter functions continued**
 
 ```
 
