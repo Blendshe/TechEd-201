@@ -1,9 +1,11 @@
-Task 01
+Task 01a
 
-1️⃣  | Create a basic html code
-2️⃣  | Add basic css styling
-3️⃣  | Add a Js script to it
-4️⃣  |  JS files should contain console.log, prompt and an alert
+<ol>
+  
+  <li>Create a basic html code</li>
+  <li>Add basic css styling</li>
+  <li>Add a Js script to it</li>
+  <li>JS files should contain console.log, prompt and an alert</li>
 
 ## VERSION 1
 
@@ -15,7 +17,7 @@ Task 01
 <head>
 
   <script>
-    var firstName = prompt('Enter your name');
+    var firstName = prompt('Enter your first name');
     console.log(firstName,"you are on the list");
 
 alert (     )
