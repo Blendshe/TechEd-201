@@ -64,10 +64,58 @@ Object is what js sees - humans, laptop - everything is an object
 
 There are 5 datatypes in js   
 1. numeric - 1, 2, 3 etc
-2. String - " "
+2. String - "sdhrthaighaei"
 3. Object - Boolean
-4. Function 
-5. Object - [ ] { }
+4. Function data type
+5. Object - [ ] { }   
+
+Html is a document in js   
+
+var jez = 1.2e111=number   
+e is a number - 10 to the power of 1 e.g. 1.2e1 = 12   
+
+#### Document Object Model - DOM  
+Things need to be in the right order, head is for external data SEO etc. other things - script, style   
+Body is for actual code, html in body   
+Sequencing is important for browser to understand    
+js is the only language the browser understands    
+
+DOM is how js existis in its mind   
+Hierarchial structure   
+Hierarchial tree   
+is called parsing    
+
+DOM tree is js language, it will translate into its own language   
+
+DOM is the entire webpage, a model, schema, structure in a sequence   
+
+**DOM manipulation** js can change the inner content of an object, so `<p>' below would change to some content   
+
+`<p>some content</p>`   
+
+`<h1> <p> and <div> are children of the body`   
+
+`<div> <h1> </h1> </div> so here <h1></h1> is inside the <div></div>`   
+
+**innertext** will give you everything in a string, getting raw data not html   
+
+**innerhtml gets you html and text 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   
   
