@@ -56,7 +56,7 @@ rm <filename> = remove a file permanently. Warning: there is no recovery!
   
 cp <source> <destination> = copy a file   
    
- ### Objects in js   
+ ### Objects in js - object is the god particle  
 An object is the most powerful in js   
 js is an object orientated language, everything is an object   
 An array is a type of object   
@@ -71,8 +71,40 @@ There are 5 datatypes in js
 
 Html is a document in js   
 
+Objects include data and functions   
+Array [ ] a group of similar data types is an object   
+You can have an array inside an object  
+You can have different things inside an object   
+  **see screenshot 2 for this class**   
+ 
+ **see code in Discord for this class Inspector Gadget coding**
+  
+To access whats in the object e.g.   
+`avengers.fav-characters`   
+`inspectorgadget.tool1`   
+  
+When you create an array, the computer numbers it, so to call avengers fav.character[2] would return "baby groot"
+    
+A function inside an object is a **method**   
+  
+**CURD operations** Creating, Updating, Reading and Deleting = the 4 things we do   
+  
+**see Starwars coding in Discord for this class and also screenshot 3**   
+  
+# Type up notes from class 9 020323 about objects using the code about Pirates
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
 var jez = 1.2e111=number   
 e is a number - 10 to the power of 1 e.g. 1.2e1 = 12   
+
 
 #### Document Object Model - DOM  
 Things need to be in the right order, head is for external data SEO etc. other things - script, style   
@@ -99,11 +131,24 @@ DOM is the entire webpage, a model, schema, structure in a sequence
 
 **innertext** will give you everything in a string, getting raw data not html   
 
-**innerhtml gets you html and text 
+**innerhtml** gets you html and text     
 
+See Carlas code in Discord at 19.49pm   
+innertext and innerhtml also what V posted diagram of DOM tree **get this here** in this README   
 
+You can get the info e.g. getElementByid and can js can change the html and also the css   
 
-
+##### DOM manipulation   
+  
+text and string are the same thing    
+can create elements understood by the browser that already exist but can't invent new ones e.g.    
+  
+`document.createElement("p")`   
+  
+**get code pasted by V in Discord 220223 at 20.32   
+  
+**Task - build 'Salmon Cookies' website and check Discord 230323**   
+  
 
 
 
