@@ -1,0 +1,95 @@
+!VsCode-DOM-manipulation-220223
+
+<!-- Creating a basic layout using css positioning -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Salmon Cookies</title>
+
+    <style>
+      body {
+        margin: 0px;
+      }
+      .header {
+        background-color: green;
+        padding: 30px;
+        text-align: center;
+        font-size: 15px;
+        color: aliceblue;
+        height: 50px;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        margin-bottom: 100px;
+      }
+      .side {
+        float: left;
+        width: 20%;
+        height: 70%;
+        min-height: 65vh;
+        background-color: gray;
+        position: relative;
+        top: 90px;
+        left: 0;
+        overflow-x: hidden;
+        padding-top: 20px;
+        margin-bottom: 10px;
+      }
+      .main {
+        float: left;
+        width: 80%;
+        height: 70%;
+        min-height: 65vh;
+        background-color: white;
+        position: relative;
+        top: 90px;
+        left: 10px;
+        overflow-x: hidden;
+        padding-top: 20px;
+        margin-bottom: 10px;
+      }
+      .footer {
+        background-color: green;
+        padding: 10px;
+        text-align: center;
+        font-size: 15px;
+        color: aliceblue;
+        height: 50px;
+        margin-top: 50vh;
+        position: relative;
+        top: 80vh;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <h1>Salmon Cookies</h1>
+    </div>
+    <div class="side">
+      <button onclick="clickHandler()">Create +</button>
+    </div>
+    <div class="main">
+      <div>
+        <h2>Locations</h2>
+        <p>Our locations are listed below.</p>
+        <ul id="parent"></ul>
+      </div>
+    </div>
+    <div class="footer">
+      <p>&copy; 2016 Salmon Cookies</p>
+    </div>
+
+    <script>
+      function clickHandler() {
+        var city = prompt("Enter a city name");
+
+        // Step 1: Create an element
+        var listElement = document.createElement("li");
+        listElement.innerText = city;
+
+        // Step2: Append the child to the parent
+        document.getElementById("parent").appendChild(listElement);
+      }
+    </script>
+  </body>
+</html>
