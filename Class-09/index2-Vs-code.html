@@ -1,0 +1,48 @@
+
+!Vs Code Objects and Methods 
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pirates of Objects</title>
+  </head>
+  <body>
+    <h1>Pirates and their drinks</h1>
+
+    <button onclick="drinksSelector()">Select Drinks</button>
+
+    <div id="pirates"></div>
+
+    <script>
+      // Step1: Create a function to start the selection
+      function drinksSelector() {
+        console.log("yo ho ho");
+
+        // Step2: Prompts
+        var pirateName = prompt("Name of the pirate");
+        var drinkOne = prompt("1.What drink do you want?");
+        var drinkTwo = prompt("2.What drink do you want?");
+
+        // Step3: Create the elements and then render them to the UI
+        var ulEle = document.createElement("ul");
+
+        var pirateLi = document.createElement("li");
+        pirateLi.innerText = pirateName;
+
+        var drinkOneLi = document.createElement("li");
+        drinkOneLi.innerText = drinkOne;
+
+        var drinkTwoLi = document.createElement("li");
+        drinkTwoLi.innerText = drinkTwo;
+
+        // Append the lists to the ul
+        ulEle.appendChild(pirateLi);
+        ulEle.appendChild(drinkOneLi);
+        ulEle.appendChild(drinkTwoLi);
+
+        // I want this to render to the UI
+        document.getElementById("pirates").appendChild(ulEle);
+      }
+    </script>
+  </body>
+</html>
