@@ -1,11 +1,13 @@
 
 
+### Remember: 
+> A *key value pair* is a **property**
+>
+> A **Method** is a *Function* in an *Object*
 
-Key value pair is a property   
+In Vs code 060323 7pm PirateFunk is the key   
 
-Method is a function in an object   
-
-In Vs code 060323 PirateFunk is the key   
+Vs code 060323 8.46pm the George Object at line 45 is an empty Object with different properties - same for other Objects, so if added Jez, Paisley etc 
 
 In Vs code 060323 line 25 `georgeObject.pirateFunk=function() {` the parenthesis will result in executing the function.  Without the parenthesis will just replicate what's been written in console log
 
@@ -15,7 +17,6 @@ V car example of code - parenthesis
 line 40 `return "i bought the car for" + carObject.cost` can be replaced by this.cost as carObject is the parent Object that `cost` lives inside  //relates to line 24 `this.cost = _cost;`   
 
 In js whenever you say `this` you are referring to the Object if it's inside a Method. It won't work in a typical function   
-
 `this` is a keyword - the most important thing in js.  Found in an Method that refers to an Object.   It can do lots and lots of things.  Helps becuase would be time consuming to write out the name of the Object repeatedly   
 
 It can also be used:    
@@ -26,15 +27,21 @@ I'm unlikely to use use it for other uses as very top level
 
 #### Classes and Constructors   
 
+I am only learning a small part of Classes, there is lots to know and I will keep learning, so not to worry if I don't know everything   
+
 different Objects, e.g. 5 people who want cars with different properties - if don't use Classes and Constructors end up writing a lot of code - see Vs Code file of 174 lines of code as an example.   
 
 Compare this to Vs Code of 8.46 wherwe its just 46 lines of code  - here the code was reconstructed using Classes   
 
-Classes can have specific types of properties   
+Classes can have specific types of properties - they are *templates* or *blueprints*   
 
-I am only learning a small part of Classes, there is lots to know and I will keep learning, so not to worry if I don't know everything   
+To create a Class you need to think about its properties e.g. if the Class is 'cars' you'd include   
+1. color
+2. brand
+3. cost
 
-Vs code 060323 8.46pm the George Object at line 
-is an empty Object with different properties - same for Jez, Paisley etc 
+A *constructor* is whe you initiate or call the Class - the Constructor comes into action and does stuff for you.  It's like an engine, it initiaites or is triggered when you use the Class e.g. car in Vs code 
+
+
 
 
