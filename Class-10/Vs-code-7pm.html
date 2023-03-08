@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pirates of Objects</title>
+  </head>
+  <body>
+    <h1>Pirates and their drinks</h1>
+
+    <button onclick="studentSelector()">Select The student</button>
+
+    <script>
+      // Step1: Create a function to start the selection
+
+      function studentSelector() {
+        // Objects
+        var georgeObj = {}; // empty object
+
+        var name = prompt("enter your name");
+        // Assigning name to the object
+        georgeObj.nameInsideObject = name;
+
+        // methods -> function inside an object
+
+        // Assign an method to an empty object
+        georgeObj.pirateFunk = function () {
+          var a = 20;
+          return a * 2 + "miles run by george";
+        };
+
+        //How can we access the method
+        console.log(georgeObj.pirateFunk()); // this will execute the method
+        console.log(georgeObj.pirateFunk); //
+      }
+    </script>
+  </body>
+</html>
