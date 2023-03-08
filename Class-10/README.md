@@ -42,6 +42,22 @@ To create a Class you need to think about its properties e.g. if the Class is 'c
 
 A *constructor* is whe you initiate or call the Class - the Constructor comes into action and does stuff for you.  It's like an engine, it initiaites or is triggered when you use the Class e.g. car in Vs code 
 
+See Vs code 070323 7.34pm for use ofthe Constructor
+
+`this.name = "Honda"` where Honda is the value   
+
+It's a much shorter way of writing code to capture information from the prompts and you would collect this into a database (DB or db)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
