@@ -1,0 +1,54 @@
+// Function when the button is clicked
+function carsAttributes() {
+  var coverPage = prompt("enter the cover page");
+  var coverTitle = prompt("Enter the cover title");
+  var bookAuthor = prompt("Enter the name of the author");
+  var bookPrice = prompt("enter the price of the book");
+
+  // Classes can be called as "templates"/"blueprint"
+  // Class for car
+  // properties -> color,brand,cost
+  // methods -> run,stop,chnage,buy
+
+  // Class for e-commerce products -> books
+  class Book {
+    // // properties -> color,brand,cost
+    constructor(coverPage, coverTitle, bookAuthor, bookPrice) {
+      this.cover = coverPage;
+      this.title = coverTitle;
+      this.author = bookAuthor;
+      this.price = bookPrice;
+
+      console.log(this.title);
+    }
+  }
+
+  var bookDetails = new Book(coverPage, coverTitle, bookAuthor, bookPrice);
+
+  console.log(bookDetails.price);
+
+  // GEORGE
+  //   var georgeCarObject = {};
+
+  //   // Methods
+  //   georgeCarObject.run = function () {
+  //     return "accelerator is pressed";
+  //   };
+
+  //   georgeCarObject.stop = function () {
+  //     return "brake is pressed";
+  //   };
+
+  //   georgeCarObject.change = function () {
+  //     return "clutch is pressed";
+  //   };
+
+  //   georgeCarObject.buy = function () {
+  //     return "I bought the car for " + this.cost;
+  //   };
+
+  //   // "this" referes to the object itself --> georgeCarObject
+  //   // "this" should be inside a method(always)
+
+  //   console.log(georgeCarObject.buy());
+}
