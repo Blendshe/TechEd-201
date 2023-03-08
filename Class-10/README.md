@@ -46,9 +46,15 @@ See Vs code 070323 7.34pm for use ofthe Constructor
 
 `this.name = "Honda"` where Honda is the value   
 
-It's a much shorter way of writing code to capture information from the prompts and you would collect this into a database (DB or db)
+It's a much shorter way of writing code to capture information from the prompts and you would have an **Array** and collect this into a database (DB or db)
 
+See Vs code 070323 8.07pm 
 
+**TASK** 070323
+
+1️⃣  | Create a class for different cateogory (Ex: book, bike, pirates etc)   
+2️⃣  | Give some properties to it   
+3️⃣  | console.log the details of the class   
 
 
 
