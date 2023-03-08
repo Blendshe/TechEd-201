@@ -34,7 +34,7 @@ Classes can have specific types of properties
 
 I am only learning a small part of Classes, there is lots to know and I will keep learning, so not to worry if I don't know everything   
 
-Vs code the George Object at line 
+Vs code 060323 8.46pm the George Object at line 
 is an empty Object with different properties - same for Jez, Paisley etc 
 
 
