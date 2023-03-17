@@ -1,0 +1,47 @@
+``
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>INHERITANCE</title>
+  </head>
+
+  <body>
+    <h1>INHERITANCE</h1>
+
+    <div></div>
+
+    <script>
+      console.log("working");
+
+      // Oldhouse -> 1900
+      // A class is a group/template
+      class oldHouse {
+        // constructor
+        constructor(_chimney, _candles, _openfire) {
+          this.chimney = _chimney;
+          this.candles = _candles;
+          this.openfire = _openfire;
+        }
+      }
+
+      let houseNo1 = new oldHouse("brick", "victorian", "range");
+      let houseNo2 = new oldHouse("metal", "bees wax", "coal");
+
+      console.log(houseNo1);
+      console.log(houseNo2);
+
+      // New house
+      class newHouse {
+        constructor(_plumbing, _flooring, _electricity) {
+          this.plumbing = _plumbing;
+          this.flooring = _flooring;
+          this.electricity = _electricity;
+        }
+      }
+
+      houseNo1 = new newHouse("metalic", "heated", "opus");
+
+      console.log(houseNo1);
+    </script>
+  </body>
+</html> ``
