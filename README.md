@@ -1,3 +1,67 @@
+Day 1  
+1️⃣  |  Github  
+2️⃣  | Vs Code  
+
+Day 2  
+1️⃣  | Semantic html  
+2️⃣  | JS data types  
+3️⃣  | Css rules  
+
+Day 3  
+1️⃣  | CSS box model -> padding, margin  
+2️⃣  | Array  
+3️⃣  | for loop,if, if else  
+
+Day 4  
+1️⃣  | CSS Positioning -> fixed, relative, absolute, sticky  
+2️⃣  | JS functions  
+
+Day 5  
+1️⃣  | Images in HTML  
+2️⃣  | Functions -> args  and params  
+3️⃣  | Git branches  
+
+Day 6  
+1️⃣  | Objects  
+2️⃣  | DOM?, DOM manipulation  
+
+Day 7  
+1️⃣  | Constructor functions  
+2️⃣  | DOM manipulation again  
+
+Day 8  
+1️⃣  | Prototypal inheritance  
+2️⃣  | Wireframe, prototype and mockup  
+3️⃣  | CSS FLEXBOX  
+
+Day 9  
+1️⃣  | JS addEventListeners  
+2️⃣  | forms  
+
+Day 10  
+1️⃣  | Debugging  
+
+Day 11  
+1️⃣  | CSS GRID  
+2️⃣  | Arrays  
+3️⃣  | OOPS  
+4️⃣  | User stories  
+5️⃣  | Audio and video  
+
+Day 12  
+1️⃣  | Canvas  
+2️⃣  | Third party libraries -> charts.js  
+
+Day 13  
+1️⃣  | JSON  
+2️⃣  | Data persistance -> localStorage  
+
+Day 14  
+1️⃣  | JS inheritance  
+2️⃣  | CSS Animations -> tranistions, transformations and key frames  
+
+Day 15  
+1️⃣  | Exam   
 
 # 201 Class 1 060223
 
@@ -55,57 +119,36 @@ mv = move a file
 rm <filename> = remove a file permanently. Warning: there is no recovery!   
   
 cp <source> <destination> = copy a file   
-   
- ### Objects in js - object is the god particle  
-An object is the most powerful in js   
-js is an object orientated language, everything is an object   
-An array is a type of object   
-Object is what js sees - humans, laptop - everything is an object   
 
-There are 5 datatypes in js   
-1. numeric - 1, 2, 3 etc
-2. String - "sdhrthaighaei"
-3. Object - Boolean
-4. Function data type
-5. Object - [ ] { }   
-
-Html is a document in js   
-
-Objects include data and functions   
-Array [ ] a group of similar data types is an object   
-You can have an array inside an object  
-You can have different things inside an object   
-  **see screenshot 2 for this class**   
- 
- **see code in Discord for this class Inspector Gadget coding**
+*NEED TO CONTINUE WITH CONTENT FOR CLASS 2 DAY 7 NEXT HERE - SEE YELLOW POST IT NOTE IN NOTEBOOK*  
   
-To access whats in the object e.g.   
-`avengers.fav-characters`   
-`inspectorgadget.tool1`   
-  
-When you create an array, the computer numbers it, so to call avengers fav.character[2] would return "baby groot"
+ CLASS 2 DAY 16 070223
+  innertext  
+    innerhtml  
     
-A function inside an object is a **method**   
-  
-**CURD operations** Creating, Updating, Reading and Deleting = the 4 things we do   
-  
-**see Starwars coding in Discord for this class and also screenshot 3**   
-  
-# Type up notes from class 9 020323 about objects using the code about Pirates
-  
+  CLASS 2 DAY 17 080223  
+    
+  lab 2 090223  
+    
+    
+ CLASS 3 100223  
+  User stories  
+  CSS Box Models   
+    
+ CLASS 3 130223  
+    
+    
+ class 4 140223  
  
+    
   
   
   
   
   
   
+ *CLASS 6 DOM 21.02.23*  
   
-  
-var jez = 1.2e111=number   
-e is a number - 10 to the power of 1 e.g. 1.2e1 = 12   
-
-
 #### Document Object Model - DOM  
 Things need to be in the right order, head is for external data SEO etc. other things - script, style   
 Body is for actual code, html in body   
@@ -147,7 +190,66 @@ can create elements understood by the browser that already exist but can't inven
   
 **get code pasted by V in Discord 220223 at 20.32   
   
-**Task - build 'Salmon Cookies' website and check Discord 230323**   
+**Task - build 'Salmon Cookies' website and check Discord 230323**    
+  
+  
+*Class 8 27.02.23*  
+  
+ ### Objects in js - object is the god particle  
+An object is the most powerful in js   
+js is an object orientated language, everything is an object   
+An array is a type of object   
+Object is what js sees - humans, laptop - everything is an object   
+
+There are 5 datatypes in js   
+1. numeric - 1, 2, 3 etc
+2. String - "sdhrthaighaei"
+3. Object - Boolean
+4. Function data type
+5. Object - [ ] { }   
+
+Html is a document in js   
+
+Objects include data and functions   
+Array [ ] a group of similar data types is an object   
+You can have an array inside an object  
+You can have different things inside an object   
+  **see screenshot 2 for this class**   
+ 
+ **see code in Discord for this class Inspector Gadget coding**
+  
+To access whats in the object e.g.   
+`avengers.fav-characters`   
+`inspectorgadget.tool1`   
+  
+When you create an array, the computer numbers it, so to call avengers fav.character[2] would return "baby groot"
+    
+A function inside an object is a **method**   
+  
+**CURD operations** Creating, Updating, Reading and Deleting = the 4 things we do   
+  
+**see Starwars coding in Discord for this class and also screenshot 3**   
+
+
+*NEXT IS CLASS 8 28.02.23 - FLEXBOX*
+  
+ 
+
+    
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+var jez = 1.2e111=number   
+e is a number - 10 to the power of 1 e.g. 1.2e1 = 12   
+
+
   
 
 
