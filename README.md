@@ -122,8 +122,9 @@ cp <source> <destination> = copy a file
 
 *NEED TO CONTINUE WITH CONTENT FOR CLASS 2 DAY 7 NEXT HERE - SEE YELLOW POST IT NOTE IN NOTEBOOK*  
   
- CLASS 2 DAY 16 070223
-  innertext  
+CLASS 2 DAY 16 070223   
+In the window we see a page, every webpage is an Object,this is called a document (its a webpage
+ innertext  
     innerhtml  
     
   CLASS 2 DAY 17 080223  
