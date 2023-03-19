@@ -8,10 +8,18 @@
    6. Logo
    7. Subscribe  <br>
    
-## Concepts used  
-C1. input button  
-C2. event listerner and handler  
-C3. List  
-C4. Form  
-C5. Getter  
-C6.
+## Concepts used: 
+a. Input button  
+b. Event listerner and handler  
+c. List  
+d. Form  
+e. Getter  
+f. Array  
+g. Flexbox  
+h. Images 
+i. Videos - external links  
+j. Alt text  
+k. Button  
+l. Form  
+m. getElementByid  
+n. CSS styling  
