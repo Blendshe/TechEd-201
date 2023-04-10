@@ -234,9 +234,30 @@ A function inside an object is a **method**
 
 *NEXT IS CLASS 8 28.02.23 - FLEXBOX*
   
- 
+Class 9 010323   
+CSS Positionong to Flexbox   
+  
+Class 9 Part 2 020323   
+Objects  
+  
+Class 10 060323  
+Recap  
 
-    
+INSERT RECAP NOTES HERE                              
+  
+Classes and Constructors  
+
+Class 11 080323  
+Forms  
+
+Class 12 100323  
+Debugging   
+
+
+
+
+
+   
   
  
   
@@ -249,34 +270,4 @@ A function inside an object is a **method**
   
 var jez = 1.2e111=number   
 e is a number - 10 to the power of 1 e.g. 1.2e1 = 12   
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-
-     
-     
-     
-     
-     
-     
      
