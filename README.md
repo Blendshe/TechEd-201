@@ -247,26 +247,39 @@ INSERT RECAP NOTES HERE
   
 Classes and Constructors  
 
+Class 10 part 2 070323  
+Classes and Constructors  
+
 Class 11 080323  
 Forms  
+Image and video tags
 
 Class 12 100323  
 Debugging   
 
+Class 13 140323  
+Canvas  
+  
+CSS Animation, Transformation and Transitions  
+
+Class 14 Part 1  150323  
+Local Storage                                       
+
+JSON  
+
+Gridbox  
+  
+Chart  
+  
+Inheritance  
+
+Pre-301 290323  
+React.js  
+Mongo.db  
+Express.js  
+Node.js  
 
 
-
-
-   
-  
- 
-  
-  
-  
-  
-  
-  
-  
   
 var jez = 1.2e111=number   
 e is a number - 10 to the power of 1 e.g. 1.2e1 = 12   
