@@ -179,7 +179,7 @@ DOM is the entire webpage, a model, schema, structure in a sequence
 
 See Carlas code in Discord at 19.49pm   
 innertext and innerhtml also what V posted diagram of DOM tree **get this here** in this README   
-
+<img src="C:\Users\Jane G\Documents\TechEducators\201-Project\201-Project-images">
 You can get the info e.g. getElementByid and can js can change the html and also the css   
 
 ##### DOM manipulation   
