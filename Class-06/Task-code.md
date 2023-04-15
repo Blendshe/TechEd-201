@@ -2,9 +2,10 @@
 2️⃣ | Create a button with event handler and event listener
 3️⃣ | When someone clicks the button all the innerHTML and also all the styles should change
   
-Paisleys code fro reference  
+Paisleys code for reference  
 
-`<!DOCTYPE html>
+`
+<!DOCTYPE html>
 
 <html>
     <head>
