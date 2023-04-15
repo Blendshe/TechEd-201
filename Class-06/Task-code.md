@@ -1,6 +1,6 @@
-1️⃣ | Create 10 elements with different ids
-2️⃣ | Create a button with event handler and event listener
-3️⃣ | When someone clicks the button all the innerHTML and also all the styles should change
+1️⃣ | Create 10 elements with different ids   
+2️⃣ | Create a button with event handler and event listener  
+3️⃣ | When someone clicks the button all the innerHTML and also all the styles should change  
   
 Paisleys code for reference  
 
