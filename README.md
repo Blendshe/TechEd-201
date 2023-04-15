@@ -175,8 +175,9 @@ DOM is the entire webpage, a model, schema, structure in a sequence
 `<h1> <p> and <div> are children of the body`   
 
 `<div> <h1> </h1> </div> so here <h1></h1> is inside the <div></div>`  
-  // [Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
   
+    
+    
 ![screenshot of DOM diagram](/DOM%20V%20Image%20210223.png)  
   
 **innertext** will give you everything in a string, getting raw data not html   
