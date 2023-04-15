@@ -150,8 +150,7 @@ In the window we see a page, every webpage is an Object,this is called a documen
   
   
   
-  
- *CLASS 6 DOM 21.02.23*  
+# CLASS 6 DOM 21.02.23*  
   
 #### Document Object Model - DOM  
 Things need to be in the right order, head is for external data SEO etc. other things - script, style   
