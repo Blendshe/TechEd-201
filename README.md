@@ -165,7 +165,7 @@ DOM tree is js language, it will translate into its own language
 
 DOM is the entire webpage, a model, schema, structure in a sequence   
 
-**DOM manipulation** js can change the inner content of an object, so ``<p>`` below would change to some content   
+**DOM manipulation** js can change the inner content of an object, so `<p>` below would change to some content   
 
 `<p>some content</p>`   
 
