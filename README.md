@@ -24,8 +24,8 @@ Day 5
 Day 6  
 1️⃣  | Objects  
 2️⃣  | DOM?, DOM manipulation  
-3️⃣  | innerText, innerHTML, getElementByid
-4️⃣  |  CSS positioning 
+3️⃣  | innerText, innerHTML, getElementByid  
+4️⃣  | CSS positioning 
 
 
 Day 7  
