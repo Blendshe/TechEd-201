@@ -180,7 +180,7 @@ DOM is the entire webpage, a model, schema, structure in a sequence
     
 ![screenshot of DOM diagram](/DOM%20V%20Image%20210223.png)  
   
-**innertext** will give you everything in a string, getting raw data not html   
+**innertext** will give you everything in a string, getting text not html   
 
 **innerhtml** gets you html and text     
 
