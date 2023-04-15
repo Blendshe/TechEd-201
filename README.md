@@ -200,7 +200,7 @@ can create elements understood by the browser that already exist but can't inven
 **Task - build 'Salmon Cookies' website and check Discord 230323**    
   
   
-*Class 8 27.02.23*  
+# Class 8 27.02.23*  
   
  ### Objects in js - object is the god particle  
 An object is the most powerful in js   
